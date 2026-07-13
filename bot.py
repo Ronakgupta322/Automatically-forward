@@ -2,14 +2,14 @@ from telegram.ext import Application
 import logging
 
 # Yahan apna Bot Token dalein
-TOKEN = "YAHAN_APNA_BOT_TOKEN_DALEIN"
+TOKEN = "8929419914:AAE2KSckOvIoPamxzFWtvG67-SmkIVtoXRA"
 
 # Yahan apne sabhi Groups aur Channels ki Chat IDs dalein (Comma se separate karke)
 # Public channel ke liye "@channelusername", private ke liye "-100xxxxxxx"
 CHAT_IDS = [
-    "-100123456789", 
-    "-100987654321", 
-    "@MeraPublicChannel",
+    "-1002737072144", 
+    "-1002341372879", 
+    "-1002560639857",
     "@EkAurGroup"
 ]
 
